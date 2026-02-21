@@ -2,6 +2,6 @@
 
 ## To Buy
 
-- [ ] 
+- [ ] Mjölk
 
 ## Bought Recently
