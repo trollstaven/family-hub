@@ -8,8 +8,11 @@ type: household
 
 ## Att köpa
 
-- [ ] Köksfläkt
-- [ ] Vipp pedalhink (svart/rostfri) - [foto](../reference/vipp-pedalhink.jpg)
+- [ ] Köksfläkt - Jämför: Electrolux, Thermex, Ballingslöv (Budget: ?)
+- [ ] Vipp pedalhink (svart/rostfri) - [foto](../reference/vipp-pedalhink.jpg) - (Rum21 ~1295kr, Designtorget ~1295kr, Vipp.com ~1195kr)
 
 ## Köpt senast
 
+---
+
+**Tips:** För större inköp - lägg till budget, jämför butiker, spara kvitton!
