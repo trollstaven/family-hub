@@ -9,6 +9,9 @@ type: groceries
 ## Att köpa
 
 - [ ] Mjölk
+- [ ] Ägg
+- [ ] Steksmör
+- [ ] Tomater
 
 ## Köpt senast
 
