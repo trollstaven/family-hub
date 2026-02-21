@@ -9,6 +9,7 @@ type: household
 ## Att köpa
 
 - [ ] Köksfläkt
+- [ ] Vipp pedalhink (svart/rostfri) - [foto](../reference/vipp-pedalhink.jpg)
 
 ## Köpt senast
 
