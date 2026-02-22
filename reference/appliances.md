@@ -17,6 +17,7 @@ type: appliances
 - **Foto:** [koksfläkt-thermex.jpg](./koksfläkt-thermex.jpg)
 - **Inköpsdatum:** 
 - **Garanti till:** 
+- **Nästa service:** 
 - **Anteckningar:** 
   - Kopplad till FTX-system
   - Inbyggd motor
@@ -31,3 +32,52 @@ type: appliances
   - Touch-kontroller?
   - Tyst drift
 - **Budget:** 
+
+---
+
+## Tvättstuga
+
+### [Apparat]
+- **Märke/Modell:** 
+- **Inköpsdatum:** 
+- **Garanti till:** 
+- **Nästa service:** 
+- **Anteckningar:**
+
+---
+
+## 🔔 Garantiuppföljning
+
+### Utgår inom 2 månader
+*(Tom - lägg till när garanti närmar sig utgång)*
+
+### Aktiva garantier
+- **Köksfläkt (Thermex):** Garanti till [DATUM] - [dagar kvar]
+
+---
+
+## 🔧 Underhållsschema
+
+### Månatligen
+- **Köksfläkt:** Rengör filter (senast: [datum])
+- **Diskmaskin:** Rengör filter och gummi
+- **Tvättmaskin:** Rengör luckgummi
+
+### Var 6:e månad
+- **Köksfläkt:** Byt kolfilter (om recirkulation) - Nästa: [datum]
+- **Torktumlare:** Rengör ventilation
+
+### Årligen
+- **FTX-system:** Byt filter - Nästa: [datum]
+- **Ugn:** Djuprengöring
+
+### Vid behov
+- **Kyl/frys:** Avfrosta vid isbildning
+- **Diskmaskin:** Kör maskinrengöring vid lukt
+
+---
+
+**Tips:** 
+- Jag kan påminna 2 månader innan garanti går ut!
+- Sätt datum för nästa underhåll så får ni notis automatiskt
+- Spara kvitton i `reference/receipts/` (ta foto av kvitto)
