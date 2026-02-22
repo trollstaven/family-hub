@@ -1,5 +1,5 @@
 ---
-updated: 2026-02-21
+updated: 2026-02-22
 category: shopping
 type: household
 ---
@@ -10,6 +10,11 @@ type: household
 
 - [ ] Köksfläkt - Jämför: Electrolux, Thermex, Ballingslöv (Budget: ?)
 - [ ] Vipp pedalhink (svart/rostfri) - [foto](../reference/vipp-pedalhink.jpg) - (Rum21 ~1295kr, Designtorget ~1295kr, Vipp.com ~1195kr)
+- [ ] AirTag
+- [ ] Hållare för AirTag (till katt)
+
+## Önskelista
+- [ ] PS5
 
 ## Köpt senast
 
